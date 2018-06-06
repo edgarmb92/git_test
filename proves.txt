@@ -1,1 +1,2 @@
-proves 2   branch1 master branch2 master2.1
+
+proves 2   branch1 master branch2.1
